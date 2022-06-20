@@ -5,14 +5,20 @@
 
 .header{
     background: grey;
+    font-family: Georgia, Times New Roman, Times, serif, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
 }
 
 .about{
     background: rgb(162, 139, 184);
+    clear: both;
     }
 
     .image{
+        padding: 8px 200px;
         float: right;
+        clear: both;
     }
 
 button{
@@ -28,6 +34,7 @@ button{
 
 .services{
     background: greenyellow;
+    clear: both;
 }
 .my_jobs{
     background: rgb(199, 90, 90);
@@ -40,3 +47,28 @@ button{
 .contacts{
     background: yellow;
 }
+
+.h_about{
+    padding: 0px 20px;
+    float: left;
+}
+
+.job{
+    padding: 0px 20px;
+    float: left;
+}
+
+.h_services{
+    padding: 0px 20px;
+    float: left;
+}
+
+.blog{
+    padding: 0px 20px;
+    float: left;
+}
+
+
+
+
+
