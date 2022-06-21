@@ -7,18 +7,20 @@
     background: grey;
     font-family: Georgia, Times New Roman, Times, serif, Arial, Helvetica, sans-serif;
     font-size: 20px;
-    
-}
-
-.about{
-    background: rgb(162, 139, 184);
     clear: both;
     }
 
-    .image{
-        padding: 8px 200px;
-        float: right;
-        clear: both;
+.about{
+    padding: 60px;
+    float: left;
+    clear: both;
+    
+    }
+
+.image{
+    padding: 0px 150px;
+    float: right;
+    
     }
 
 button{
@@ -27,9 +29,11 @@ button{
     text-align: center;
     padding: 5px 6px;
     background-color: rebeccapurple;
-    border-width: 2px;
+    border-width: 3px;
     border-style:outset;
     border-color: rebeccapurple;
+    border-radius: 10px;
+    color: antiquewhite;
 }
 
 .services{
